@@ -1,5 +1,6 @@
 # Software-Framework-Representation-in-Archimate
-The primary goal of this modeling is to test ArchiMate as a standard for documenting a system in the context of a pre-project opportunity study or as reference documentation during or after project execution, including the deployment. 
+![image](https://github.com/user-attachments/assets/15599d49-1f4a-4120-984a-7b2b84aea5ba)
+
 ### 1. **Intent**
 The primary goal of this modeling is to test ArchiMate as a standard for documenting a system in the context of a pre-project opportunity study or as reference documentation during or after project execution, including the deployment. 
 The model has been designed as a multi-layer representation to identify the most relevant layers for documenting complex systems. 
